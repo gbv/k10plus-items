@@ -5,6 +5,7 @@ erDiagram
     Library {
         id ELN "primary key"
         id ILN "foreign key"
+        id ISIL "optional, unique"
     }
     LibraryGroup ||--|{ Library : contains
     Title {
@@ -26,7 +27,7 @@ erDiagram
     }
     Library ||--o{ Department : "has"
     Department {
-        id ISIL
+        id ISIL "foreign key"
         string code "optional"
     }
     Copy }|--o| Department : "at" 
