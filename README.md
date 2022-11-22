@@ -13,6 +13,8 @@ The file `kxp-libraries.tsv` contains a table of all libraries participating at 
 - Name
 - ISIL
 
+To connect this with K10plus title data it needs a mapping from PPN (PICA+ `003@$0`) and ILN/ELN/ISIL (`101@`), EPN (`203@`) and/or barcode (`209G`).
+
 ## Model
 
 ![](model.svg)
@@ -37,6 +39,6 @@ Department information is not stored in K10plus. See <https://github.com/gbv/lib
 
 ### Items
 
-Each item in K10plus is uniquely identified by its **EPN**. In most cases an item refers to one **Copy** but items may have multiple identical copies as well. To further complicate things, a Copy can have multiple exemplars when its number is greater than one. Copies don't have their own identifiers but their their identity comes from combination of EPN and X-Occurrence.
+Each item in K10plus is uniquely identified by its **EPN** or by combination of **ILN** and occurrence. In most cases an item refers to exactely one **Copy** but some items have multiple copies as well. To further complicate things, a Copy can have multiple exemplars when its number is greater than one. These sub-copies usually have an individual **barcode** but this is not always the case.
 
 Each item belongs to exactely one library (identified by ELN) and exactely one title (identified by PPN).
