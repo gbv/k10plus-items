@@ -1032,7 +1032,7 @@
 2004	FR006	Universität Freiburg, Medizinische Universitätsklinik	DE-25-6
 2004	FR007	Universität Freiburg, Universitäts-Frauenklinik	DE-25-7
 2004	FR008	Universität Freiburg, Institut für Biochemie und Molekularbiologie, Bibliothek	DE-25-8
-2004	FR009	Universität Freiburg, Bibliothek für Rechtswissenschaft	DE-25-9
+2004	FR009	Universität Freiburg, Lehrstuhlbibliotheken der Rechtswissenschaftlichen Fakultät	DE-25-9
 2004	FR010	Universität Freiburg, Volkswirtschaftl. Seminar	DE-25-10
 2004	FR011	Universität Freiburg, Archäologisches Institut	DE-25-11
 2004	FR013	Universität Freiburg, Kunstgeschichtliches Institut	DE-25-13
@@ -1044,18 +1044,18 @@
 2004	FR019Z	Universität Freiburg, Anästhesiologische Universitätsklinik	DE-25-19z
 2004	FR020	Universität Freiburg, Psychiatrische Uni-Klinik /Abt. für Psychiatrie und Psychotherapie	DE-25-20
 2004	FR021	Universität Freiburg, Universitäts-Augenklinik	DE-25-21
-2004	FR022	Universität Freiburg, Universitäts-Hautklinik	DE-25-22
+2004	FR022	Universität Freiburg, Klinik für Dermatologie und Venerologie, Hautklinik - Bibliothek -	DE-25-22
 2004	FR023	Universität Freiburg, Romanisches Seminar	DE-25-23
 2004	FR024	Universität Freiburg, Englisches Seminar I u. II	DE-25-24
 2004	FR029	Universität Freiburg, Orientalisches Seminar	DE-25-29
 2004	FR030A	Universität Freiburg, Institut für Deutsche Sprache u. ältere Literatur	DE-25-30a
 2004	FR030B	Universität Freiburg, Institut für Neuere Deutsche Literatur	DE-25-30b
-2004	FR030C	Universität Freiburg, Inst. f. Vergleichende Germanische Philologie u. Skandinavistik	DE-25-30c
+2004	FR030C	Universität Freiburg, Skandinavisches Seminar - Bibliothek -	DE-25-30c
 2004	FR030D	Universität Freiburg, Institut für Kulturanthropologie und Europäische Ethnologie, Bibliothek	DE-25-30d
 2004	FR030Z	Universität Freiburg, Arbeitsbereich Badisches Wörterbuch	DE-25-30z
 2004	FR031A	Universität Freiburg, Seminar f. Alte Geschichte	DE-25-31a
 2004	FR031B	Universität Freiburg, Verbundbibl. im KG IV, Hist. Seminar, Abt. Mittlere und Neuere Gesch.	DE-25-31b
-2004	FR031C	Universität Freiburg, Verbundbibl. im KG IV, Hist. Seminar, Abt. Neuere und Osteurop. Gesch.	DE-25-31c
+2004	FR031C	Universität Freiburg, Universität Freiburg, Institut für Archäologische Wissenschaften, Abteilung für Provinzialrömische Archäologie	DE-25-31z
 2004	FR031Z	Universität Freiburg, Institut für Archäologische Wissenschaften, Abteilung für Provinzialrömische Archäologie	DE-25-31z
 2004	FR032	Universität Freiburg, FB Philosophie u. Erziehungswiss.: Philosophie	DE-25-32
 2004	FR033	Universität Freiburg, Fakultätsbibliothek Biologie I (Zoologie)	DE-25-33
@@ -1063,7 +1063,7 @@
 2004	FR036	Universität Freiburg, Physiologisches Institut, Bibliothek	DE-25-36
 2004	FR038	Universität Freiburg, Institut für Ethik und Geschichte der Medizin	DE-25-38
 2004	FR039	Universität Freiburg, Zentrum für Kinder- und Jugendheilkunde	DE-25-39
-2004	FR042	Universität Freiburg, Bibliothek des Geologischen Instituts und des Mineralogisch-Geochemischen Instituts	DE-25-42
+2004	FR042	Universität Freiburg, Bibliothek Geologie und Mineralogie - Geochemie	DE-25-42
 2004	FR043	Universität Freiburg, Medizin-Lesesaal Weismannhaus	DE-25-43
 2004	FR046	Universität Freiburg, Universitätsklinik für Zahn-, Mund- u. Kieferheilkunde	DE-25-46
 2004	FR048	Landesamt für, Landesamt für Geologie, Rohstoffe und Bergbau Baden-Württemberg	DE-Frei48
@@ -1087,15 +1087,11 @@
 2004	FR075	Universität Freiburg, Seminar für Klassische Philologie	DE-25-75
 2004	FR076	Universität Freiburg, FB Philosophie und Erziehungswiss. - Abt. Erziehungswissenschaft	DE-25-76
 2004	FR077	Universität Freiburg, Psychologisches Institut	DE-25-77
-2004	FR079	Universität Freiburg, Institut für öffentliches Recht	DE-25-79
 2004	FR081	Universität Freiburg, Institut für Rechtsgeschichte u. Geschichtliche Rechtsvergleichung	DE-25-81
-2004	FR082	Universität Freiburg, Institut für Staatswissenschaft und Rechtsphilosophie	DE-25-82
 2004	FR083	Universität Freiburg, Sprachwissenschaftliches Seminar	DE-25-83
 2004	FR086	Universität Freiburg, Institut für Ur- und Frühgeschichte	DE-25-86
 2004	FR088	Universität Freiburg, Waldbau-Institut	DE-25-88
-2004	FR090	Universität Freiburg, Meteorologisches Institut	DE-25-90
 2004	FR091	Universität Freiburg, Bibliothek der Technischen Fakultät	DE-25-91
-2004	FR092	Universität Freiburg, Verbundbibliothek im KG IV, Seminar für Wissenschaftliche Politik	DE-25-92
 2004	FR094	Freiburg-Institut für Datenanalyse und Modellbildung (FDM)	DE-25-94
 2004	FR095	Chemisches und Veterinäruntersuchungsamt Freiburg	DE-Frei95
 2004	FR099	Zentrum für Populäre Kultur und Musik	DE-25-99
@@ -1118,7 +1114,6 @@
 2004	FR128	Stadtbibliothek Freiburg	DE-Frei128
 2004	FR131	Institut für Volkskunde der Deutschen des östlichen Europa, Freiburg (IVDE)	DE-Frei131
 2004	FR132	Kirchengeschichtlicher Verein der Erzdiösese Freiburg	DE-Frei132
-2004	FR133	Universität Freiburg, Verbundbibliothek im KG IV, Institut für Soziologie	DE-25-133
 2004	FR134Z	Naturmuseum Freiburg, Ethnologische Sammlung	DE-Frei134z
 2004	FR137	Universität Freiburg, Seminar für Lateinische Philologie des Mittelalters	DE-25-137
 2004	FR139	Universität Freiburg, Institut für Forstbenutzung und forstliche Arbeitswissenschaft	DE-25-139
@@ -1132,14 +1127,14 @@
 2004	FR156	Universität Freiburg, Fakultätsbibliothek Theologie	DE-25-156
 2004	FR158	Fraunhofer-Institut für Physikalische Messtechnik	DE-Frei158
 2004	FR161	Informationszentrum Dritte Welt Freiburg	DE-Frei161
-2004	FR162	Universität Freiburg, Radiologisches Zentrum, Radiologische Klinik	DE-25-162
+2004	FR162	Universität Freiburg, Radiologische Diagnostik und Therapie, Bibliothek 	DE-25-162
 2004	FR163	Universität Freiburg, Rechenzentrum	DE-25-163
-2004	FR165	Universität Freiburg, Institut für Landespflege	DE-25-165
+2004	FR165	Universität Freiburg, Professur für Naturschutz und Landschaftsökologie - Bibliothek -	DE-25-165
 2004	FR166	Museum für Ur- und Frühgeschichte Freiburg	DE-Frei166
 2004	FR168	Universität Freiburg, Patientenbibliothek der Universitätsklinik	DE-25-168
 2004	FR169	Universität Freiburg, Zentrum für Anthropologie und Gender Studien	DE-25-169
 2004	FR170	Universität Freiburg, Freiburger Institut für Paläowissenschaftliche Studien  F.I.P.S.	DE-25-170
-2004	FR171	Universität Freiburg, Universitätsklinik f. Psychiatrie u. Psychosomatik	DE-25-171
+2004	FR171	Universität Freiburg, Klinik für Psychiatrie, Psychotherapie und Psychosomatik im Kindes- und Jugendalter (Department für Psychische Erkrankungen) - Bibliothek -	DE-25-171
 2004	FR172	Universität Freiburg, Ethik-Kommission	DE-25-172
 2004	FR173	Universität Freiburg, Abteilung für Medizinische Psychologie	DE-25-173
 2004	FR174	Universität Freiburg, Universitätsklinikum, Akademie für medizinische Berufe	DE-25-174
@@ -1917,7 +1912,7 @@
 2335	DDAS	Bundesanstalt für Arbeitsschutz und Arbeitsmedizin Dresden	DE-D122
 2336	DDFW	Leibniz-Institut für Festkörper- und Werkstoffforschung (IFW) Dresden	DE-142
 2337	DDHM	Stiftung Deutsches Hygiene-Museum Dresden	DE-D15
-2338	DDVM	Verkehrsmuseum Dresden	DE-D164
+2338	DDVM	Wissenschaftliche Fachbibliothek Verkehrsmuseum Dresden gGmbH	DE-D164
 2339	DDKH	Städtisches Klinikum Dresden-Friedrichstadt, Bibliothek	DE-D165
 2340	DDLU	Sächsisches Landesamt für Umwelt und Geologie Dresden	DE-D170
 2341	DDLL	Sächsische Landesanstalt für Landwirtschaft Dresden	DE-D227
