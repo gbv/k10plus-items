@@ -6,7 +6,7 @@ This repository contains normalized information about libraries and holdings in 
 
 ## Description
 
-The file `kxp-libraries.tsv` contains a table of all libraries participating at K10plus, sorted by ILN (source: <https://wiki.k10plus.de/display/K10PLUS/Teilnahme+am+K10plus>). It consists of four columns:
+The file `kxp-libraries.tsv` contains a table of all libraries participating at K10plus, sorted by ILN (source: <https://wiki.k10plus.de/display/K10PLUS/Teilnehmende+Einrichtungen+am+K10plus>). It consists of four columns:
 
 - ILN
 - ELN
