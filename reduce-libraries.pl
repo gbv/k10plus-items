@@ -13,6 +13,7 @@ while (<>) {
         next;
     }
 
+    $name =~ s/\s+$//;
     say join "\t", $iln, $isil, $name;
 
     $isil2iln{$isil} = $iln;
