@@ -6,7 +6,7 @@ This repository contains normalized information about libraries and holdings in 
 
 ## Description
 
-The file `kxp-libraries.tsv` contains a table of all libraries participating at K10plus, sorted by ILN (source: <https://wiki.k10plus.de/display/K10PLUS/Teilnehmende+Einrichtungen+am+K10plus>). It consists of four columns:
+The file `kxp-libraries.tsv` contains a table of all libraries participating at K10plus, sorted by ILN (source: <https://wiki.k10plus.de/display/K10PLUS/Teilnehmende+Einrichtungen+am+K10plus>) and unique by ELN. It consists of four columns:
 
 - ILN
 - ELN
@@ -14,6 +14,8 @@ The file `kxp-libraries.tsv` contains a table of all libraries participating at 
 - ISIL
 
 To connect this with K10plus title data it needs a mapping from PPN (PICA+ `003@$0`) and ILN/ELN/ISIL (`101@`), EPN (`203@`) and/or barcode (`209G`).
+
+The file `kxp-libraries-reduced.tsv` contains all libraries with ISIL, minus department libraries that share ILN with their superordinated library (e.g. ILN `22` subsumes `DE-18` and `DE-18-15`, so only `DE-15` is included).
 
 ## Model
 
